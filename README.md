@@ -54,7 +54,7 @@ This query shows vehicles that have more than 2 bookings.
 
 - DrawSQL (for ERD design)
 - Beekeeper Studio (for running queries)
-- MySQL (for database)
+- PostgreSQL (for database)
 
 ---
 
@@ -62,3 +62,7 @@ This query shows vehicles that have more than 2 bookings.
 
 - [ERD Link](https://drawsql.app/teams/ak666/diagrams/vehicle-rental-system)
 - [Viva Video Link](https://drive.google.com/file/d/1gOaGfTmfty7xeJuvkUuMxRKvzEklbWTw/view)
+
+## Conclusion
+
+This project demonstrates basic database design, relationships, and SQL query skills for a real-world vehicle rental system.
